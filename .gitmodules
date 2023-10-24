@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ltyu/borrower-auto-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ltyu/signature-store-backend.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/ltyu/nft-loan-contracts.git
